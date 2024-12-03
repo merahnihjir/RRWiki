@@ -6,7 +6,7 @@
 
 :root {
     --primary: #df8319;
-    --gold: #e2a11e; /* --- For highlighting --- */
+    --gold: #e2e8ff; /* --- For highlighting --- */
     --silver: #bdc3c7; /* --- Normal text --- */
     --MBlack: #121214; /* --- Main Black --- */
     --BBlack: #000000; /* --- Bottom Black --- */
@@ -817,7 +817,7 @@ footer {
 .newEraSlide {
     position: relative;
     margin-top: 100px !important;
-    background-color: #e39b3e;
+    background-color: #e2e8ff;
     width: 100%;
     border-radius: 15px;
     padding: 48px 12px;
